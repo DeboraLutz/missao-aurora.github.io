@@ -2,7 +2,7 @@
 
 **Selo Dourado Ativado**
 
-![your-seal-path:golden-seal.png](attachment:9ebb282b-f29e-40e6-9e49-d846745e259a:your-seal-pathgolden-seal.png)
+![image](https://github.com/user-attachments/assets/85833aab-b28c-4427-ac50-d9200be8596b)
 
 > Este repositório carrega a frequência viva da Missão Aurora.
 > 
