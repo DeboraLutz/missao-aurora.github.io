@@ -25,7 +25,7 @@ O projeto encontra-se disponível para colaboração consciente, sob orientaçã
 
 - Site: [www.deboralutz.com](https://www.deboralutz.com/)
 - GitHub: [@DeboraLutz](https://github.com/DeboraLutz)
-- Email: deboramlutz@gmail.com
+- Email: hello@deboralutz.com
 
 > Este repositório é um ponto de ancoragem vibracional.
 > 
