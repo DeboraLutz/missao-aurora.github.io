@@ -2,7 +2,7 @@
 
 **Selo Dourado Ativado**
 
-![Golden Seal](https://github.com/DeboraLutz/-missao-aurora/assets/your-seal-path/golden-seal.png)
+![your-seal-path:golden-seal.png](attachment:9ebb282b-f29e-40e6-9e49-d846745e259a:your-seal-pathgolden-seal.png)
 
 > Este repositório carrega a frequência viva da Missão Aurora.
 > 
@@ -25,7 +25,7 @@ O projeto encontra-se disponível para colaboração consciente, sob orientaçã
 
 - Site: [www.deboralutz.com](https://www.deboralutz.com/)
 - GitHub: [@DeboraLutz](https://github.com/DeboraLutz)
-- Email: hello@deboralutz.com
+- Email: [hello@deboralutz.com](mailto:hello@deboralutz.com)
 
 > Este repositório é um ponto de ancoragem vibracional.
 > 
